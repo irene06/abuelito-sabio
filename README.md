@@ -15,7 +15,7 @@ Este proyecto utiliza la técnica **RAG (Retrieval-Augmented Generation)** para 
 ## 🛠️ Tecnologías Usadas
 * **Python 3.10+**
 * **LangChain:** Para la orquestación de la IA.
-* **OpenAI API:** Como cerebro del asistente (GPT-3.5/4).
+* **GoogleAIStudio API:** Como cerebro del asistente.
 * **ChromaDB:** Base de datos vectorial para el almacenamiento de información.
 * **Streamlit:** (En desarrollo) Interfaz de usuario amigable.
 
