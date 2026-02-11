@@ -1,2 +1,27 @@
-# abuelito-sabio
-Abuelito Sabio" es un asistente de IA diseñado para ayudarte a entender archivos complejos (PDFs, textos, contratos) como si estuvieras conversando con alguien que lo sabe todo. Utiliza tecnología RAG (Retrieval-Augmented Generation) para asegurar que las respuestas sean precisas y basadas únicamente en tu información
+# 👴🏼 Abuelito Sabio - AI Document Assistant
+
+**Abuelito Sabio** es un asistente de inteligencia artificial diseñado para conversar con tus documentos. Olvídate de leer archivos PDF eternos; pregúntale al abuelito y él te explicará todo con sabiduría y precisión.
+
+Este proyecto utiliza la técnica **RAG (Retrieval-Augmented Generation)** para conectar un modelo de lenguaje (LLM) con datos locales privados.
+
+---
+
+## ✨ Características
+* **Conversación Inteligente:** Haz preguntas en lenguaje natural sobre tus archivos.
+* **Memoria de Contexto:** El abuelito recuerda lo que le preguntaste antes durante la sesión.
+* **Multiformato:** Soporte para archivos `.txt` (y pronto `.pdf`).
+* **Arquitectura RAG:** Utiliza embeddings para encontrar la respuesta exacta en el documento.
+
+## 🛠️ Tecnologías Usadas
+* **Python 3.10+**
+* **LangChain:** Para la orquestación de la IA.
+* **OpenAI API:** Como cerebro del asistente (GPT-3.5/4).
+* **ChromaDB:** Base de datos vectorial para el almacenamiento de información.
+* **Streamlit:** (En desarrollo) Interfaz de usuario amigable.
+
+## 🚀 Instalación y Uso
+
+1. **Clona el repositorio:**
+   ```bash
+   git clone [https://github.com/TU_USUARIO/abuelito-sabio.git](https://github.com/TU_USUARIO/abuelito-sabio.git)
+   cd abuelito-sabio
