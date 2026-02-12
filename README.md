@@ -3,6 +3,7 @@
 **Abuelito Sabio** es un asistente de inteligencia artificial diseñado para conversar con tus documentos. Olvídate de leer archivos PDF eternos; pregúntale al abuelito y él te explicará todo con sabiduría y precisión.
 
 Este proyecto utiliza la técnica **RAG (Retrieval-Augmented Generation)** para conectar un modelo de lenguaje (LLM) con datos locales privados.
+![3ccb1834-e866-459b-87b9-9297a4399a94](https://github.com/user-attachments/assets/539d965d-dbd8-445c-8ef7-bcb86f0e8a90)
 
 ---
 
