@@ -10,7 +10,7 @@ Este proyecto utiliza la técnica **RAG (Retrieval-Augmented Generation)** para 
 ## ✨ Características
 * **Conversación Inteligente:** Haz preguntas en lenguaje natural sobre tus archivos.
 * **Memoria de Contexto:** El abuelito recuerda lo que le preguntaste antes durante la sesión.
-* **Multiformato:** Soporte para archivos `.txt` (y pronto `.pdf`).
+* **Multiformato:** Soporte para archivos `.txt` y .pdf
 * **Arquitectura RAG:** Utiliza embeddings para encontrar la respuesta exacta en el documento.
 
 ## 🛠️ Tecnologías Usadas
